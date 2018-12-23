@@ -1,0 +1,50 @@
+{
+  "id" : "6hAbF73g01A",
+  "userName" : "francisco.berridi@gmail.com",
+  "firstName"  : "Francisco",
+  "lastName" : "Berridi",
+  "lastSynchronization" : "00:00:00+000Z",
+  "today" : {
+    "weight" : 123,
+    "bodyFat" : 23.44,
+    "energyOut" : 1243,
+    "energyIn" : 1763,
+    "workout" : "/user/6hAbF73g01A/schedule/workouts/today",
+    "meals" : "/user/6hAbF73g01A/schedule/meals/next"
+  },
+  "settings" : {
+    "units" : "lb",
+    "device" : "AppleWatch"
+  },
+  "lastSync" : "12:12:12zT00.000",
+  "membership" : "gold",
+
+  "links" : {
+    "attributes" : "/user/6hAbF73g01A/attributes",
+    "workoutSchedule" : "/user/6hAbF73g01A/schedule/workouts",
+    "mealPlan" :  "/user/6hAbF73g01A/schedule/meals",
+    "recommendations" : "/user/6hAbF73g01A/analytics/recommendations",
+    "friends" : "/user/6hAbF73g01A/social/friends",
+    "metabolicFingerprint" : "/user/6hAbF73g01A/analytics/metabolic-fingerprint",
+    "articles" : "/user/6hAbF73g01A/library/articles"
+  },
+  "friendsQuick" : [
+    {
+      "name" : "Gaby Torres",
+      "picture" : "https://s3/asdsadasdasdasdasdasd.png",
+      "profile" : "/user/781723123/public-profile"
+    },
+    {
+      "name" : "Jose Gaxiola",
+      "picture" : "https://s3/asdsadasdasdasdasdasd.png",
+      "profile" : "/user/nb8rDa92a/public-profile"
+    }
+  ],
+  "trainers" : [
+    {
+      "name" : "Octavio Cruz",
+      "picture" : "https://s3/jahtgfsdifhe4rh;32iht4e.png",
+      "profile" : "/user/99jhi6334d/public-profile"
+    }
+  ]
+}

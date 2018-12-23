@@ -1,0 +1,16 @@
+{
+  "monday" : {
+    "id" : "Workout12382",
+    "source" : "user/9kasd734sss | FitMyLife",
+    "thumbnail" : "https://s3/5nkjn89w34hj59123213.png",
+    "equipment" : ["equip4458", "equip7788"],
+    "execution" : [],
+    "title" : "Feel the fire - Lower body circuit",
+    "totalEnergyUsed" : 359,
+    "totalTimeRequired" : 5325
+  },
+
+  "tuesday" : null,
+
+  "wednesday" : "{ ... }"
+}

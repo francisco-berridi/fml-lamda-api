@@ -1,0 +1,42 @@
+[
+
+  {
+    "type" : "SuperSet",
+    "repeat" : 3,
+    "steps" : [
+      {
+        "type" : "gym",
+        "exercise" : {},
+        "repetitions" : 8
+      },
+      {
+
+        "type" : "gym",
+        "exercise" : {},
+        "repetitions" : 8
+      },
+      {
+        "type" : "rest",
+        "duration" : 120
+      }
+    ]
+  },
+
+  {
+    "type" : "Sequence",
+    "steps" : [
+      {
+        "type" : "gym",
+        "exercise" : {},
+        "repetitions" : 12,
+        "series" : 4
+      },
+      {
+        "type" : "gym",
+        "exercise" : {},
+        "repetitions" : 12,
+        "series" : 4
+      }
+    ]
+  }
+]

@@ -1,0 +1,5 @@
+- withGym('exe932730132', 10, ["equip00893232"])
+- superSet([withGym(...), withGym(...), 45sec], 3)
+- bodyWeigh('exe99888', 23)
+- rest(2m)
+- cardio('exe88882', 400s)

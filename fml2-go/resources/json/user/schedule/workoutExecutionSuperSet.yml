@@ -1,0 +1,30 @@
+execution:
+  superset:
+    - gym:
+      exercise: '$ref/exe4857478'
+      series: 1
+    - gym:
+      exercise: '$ref/exe4418478'
+      series: 1
+    - rest:
+      time : 120
+    repeat: 3
+
+  sequence:
+    - gym:
+      exercise: '$ref/exe483378'
+      series: 3
+    - gym:
+      exercise: '$ref/exe198778'
+      series: 3
+
+  superset:
+    - cardio-repetitions:
+      exercise: '$ref/exe198778'
+      repetitions: 10
+
+    - cardio-time:
+      exercise: '$ref/exe198778'
+      time: 120
+
+    repeat: 2

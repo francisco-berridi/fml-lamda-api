@@ -1,0 +1,20 @@
+execution:
+  sequence:
+    - HIIT-time:
+      exercise: '$ref/exe4857478'
+      high: 120
+      low: 15
+
+    - hold:
+      exercise: '$ref/exe1235465'
+      time: 60
+
+    - hiit-time:
+      exercise: '$ref/exe557788'
+      high: 120
+      low: 15
+
+    - hold:
+      exercise: '$ref/exe557788'
+      time: 45
+    repeat: 1
